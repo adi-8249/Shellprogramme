@@ -7,3 +7,4 @@ b=$(((RANDOM%6)+1))
 sum=$(($a+$b))
 
 echo $sum
+echo "done"
